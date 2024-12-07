@@ -96,8 +96,8 @@ ul li span {
 ul li span:hover {
   background-color: #edeef0;
 }
-@media (max-width: 500px) {
+@media (max-width: 450px) {
   button {
-    padding: 14px 40px;
+    padding: 16px;
   }
 }
